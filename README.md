@@ -1,12 +1,12 @@
 # Dogipidea - Single source of truth
 
-// Project set up 
+// Project set up
 
-// Project commands/scripts to use 
+// Project commands/scripts to use
 
 // How to contribute
-    // How to raise PR
-    // How to file Bugs
+// How to raise PR
+// How to file Bugs
 
 //change
 
